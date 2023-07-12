@@ -11,3 +11,9 @@ A real time messaging & video calling. Youtube tutorial will be upload in the co
 ```javascript
 let APP_ID = "YOU-APP-ID";
 ```
+
+# Disclaimer
+
+This application need your APP ID of Agaro.io(https://www.agora.io/en/),SDK for real time video call and chat.
+
+I can't share my personal APP ID for Sercurity reason.
