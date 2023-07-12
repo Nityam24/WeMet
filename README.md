@@ -14,6 +14,6 @@ let APP_ID = "YOU-APP-ID";
 
 # Disclaimer
 
-This application need your APP ID of Agaro.io(https://www.agora.io/en/),SDK for real time video call and chat.
+This application need your APP ID of Agaro.io(https://www.agora.io/en/), SDK for real time video call and chat.
 
 I can't share my personal APP ID for Sercurity reason.
